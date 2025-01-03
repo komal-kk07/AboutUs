@@ -1,0 +1,43 @@
+.who-we-are {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 1.25rem;
+  }
+  
+  .section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1.25rem 0;
+  }
+  
+  .about-us,
+  .vision {
+    flex: 1;
+    margin: 0 1.25rem;
+    text-align: left;
+  }
+  
+  .image {
+    flex: 1;
+    margin: 0 1.25rem;
+  }
+  
+  .image img {
+    width: 100%;
+    border-radius: 0.5rem;
+  }
+  
+  h1 {
+    margin-bottom: 1.25rem;
+  }
+  
+  h2 {
+    color: #0074d9;
+    margin-bottom: 0.7rem;
+  }
+  
+  p {
+    line-height: 1.6;
+  }
+  
